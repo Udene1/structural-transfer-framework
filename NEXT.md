@@ -10,6 +10,8 @@ Build the conceptual and literature foundation for Paper 1 before drafting its a
 
 ## Next action
 
+The initial literature map is now complete. The next step is a targeted novelty and boundary review: identify literature that explicitly connects policy transfer, mechanism preservation, institutional context, and causal transportability.
+
 Conduct a structured literature review covering at least:
 
 - policy transfer;
@@ -46,4 +48,4 @@ For each relevant literature cluster, record:
 
 ## Completion condition
 
-Phase 0 is complete when we have a documented literature map, preliminary definitions, a transfer-case schema, and explicit candidate research questions that can be tested against existing scholarship.
+The current literature-mapping substep is complete. Phase 0 is not complete until we have tested the candidate gap against the closest existing frameworks and have preliminary definitions and a defensible transfer-case schema.
