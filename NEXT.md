@@ -8,9 +8,18 @@ Phase 0 — Research laboratory setup.
 
 Build the conceptual and literature foundation for Paper 1 before drafting its argument.
 
+## Completed action
+
+The targeted novelty and boundary review has now been completed at the first-pass level. It found two important constraints on the candidate gap:
+
+1. causal mechanisms are already studied in policy-transfer research, including recent work specifically on negative transfer;
+2. causal transportability already provides a formal source-to-target framework for contextual and mechanism differences.
+
+Therefore no novelty claim is justified yet.
+
 ## Next action
 
-The initial literature map is now complete. The next step is a targeted novelty and boundary review: identify literature that explicitly connects policy transfer, mechanism preservation, institutional context, and causal transportability.
+Run a second, narrower integration search for work that explicitly combines policy transfer with causal transportability/selection diagrams or applies transportability logic to economic policy institutions. The goal is to determine whether the proposed bridge already exists before freezing Paper 1's contribution.
 
 Conduct a structured literature review covering at least:
 
@@ -48,4 +57,4 @@ For each relevant literature cluster, record:
 
 ## Completion condition
 
-The current literature-mapping substep is complete. Phase 0 is not complete until we have tested the candidate gap against the closest existing frameworks and have preliminary definitions and a defensible transfer-case schema.
+The initial literature-mapping substep and first targeted novelty review are complete. Phase 0 is not complete until the integration search is completed and preliminary definitions are checked against the closest frameworks.
