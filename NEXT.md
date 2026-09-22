@@ -10,42 +10,52 @@ Build the conceptual and literature foundation for Paper 1 before drafting its a
 
 ## Completed action
 
-The targeted novelty and boundary review and a third integration review have now been completed at first-pass level. It found two important constraints on the candidate gap:
+The targeted novelty reviews now establish that:
 
-1. causal mechanisms are already studied in policy-transfer research, including recent work specifically on negative transfer;
-2. causal transportability already provides a formal source-to-target framework for contextual and mechanism differences.
+1. causal mechanisms are already studied in policy-transfer research;
+2. causal transportability already provides a formal source-to-target framework for contextual and mechanism differences;
+3. policy learning, evidence-informed policymaking, adaptive monitoring, and economic diagnostics are established literatures;
+4. an IMF growth-diagnostics framework explicitly connects observed facts, causal diagnosis, testable implications, and policy intervention.
 
-Therefore no novelty claim is justified yet.
+Therefore no novelty claim is justified for any of those components individually.
+
+A new targeted review has been recorded in:
+
+research/literature/EVIDENCE-BRIDGE-TRANSFER-LEARNING-REVIEW.md
 
 ## Next action
 
-Inspect the closest procedural frameworks directly: realist CMO analysis, mechanism-based policy transfer, causal transportability/selection diagrams, institutional transplantation, and comparative policy-effectiveness. The goal is to determine whether they already provide the proposed mechanism-level transfer audit, or exactly what empirical operation remains missing.
+Directly compare the proposed transfer audit with the closest procedural frameworks:
 
-Conduct a structured literature review covering at least:
+1. realist CMO analysis;
+2. mechanism-based policy transfer;
+3. causal transportability and selection diagrams;
+4. institutional transplantation;
+5. comparative policy-effectiveness;
+6. policy evaluation and policy learning.
 
-- policy transfer;
-- policy diffusion;
-- institutional transplantation;
-- institutional economics;
-- comparative political economy;
-- external validity and generalization;
-- context-dependent policy effectiveness;
-- development economics and structural transformation;
-- monetary-policy transmission across emerging economies;
-- fiscal federalism and intergovernmental fiscal relations.
+The central test is:
+
+> Does existing scholarship already provide an operational method for tracing source evidence → mechanism → required structures → target evidence → intervention → observed response → updating?
+
+If yes, document the existing method and abandon or narrow the candidate contribution. If no, identify the exact missing empirical operation without inflating it into a broad new theory.
 
 ## Required output
 
-For each relevant literature cluster, record:
+For each framework, record:
 
 1. What problem it addresses.
-2. Its key concepts.
-3. Its assumptions.
-4. Its proposed mechanisms.
-5. What evidence it uses.
-6. Where it overlaps with our proposed framework.
-7. What it does not explain.
-8. Whether our proposed concept is genuinely distinct.
+2. Its unit of analysis.
+3. Its key concepts.
+4. Its assumptions.
+5. Its causal/mechanism representation.
+6. What evidence it requires.
+7. How it handles context differences.
+8. How it handles implementation.
+9. How it handles post-intervention evidence and updating.
+10. What overlaps with the proposed audit.
+11. What remains unaddressed.
+12. Whether the remaining gap is conceptual, methodological, measurement-related, or merely an application opportunity.
 
 ## Do not do yet
 
@@ -53,8 +63,11 @@ For each relevant literature cluster, record:
 - Do not assume that Nigeria demonstrates policy-transfer failure.
 - Do not prescribe an alternative monetary or fiscal regime.
 - Do not treat the existence of a policy institution as proof that its underlying structure was transferred.
-- Do not claim novelty before the literature review.
+- Do not claim that policymakers ignore evidence.
+- Do not claim novelty before the procedural comparison is complete.
 
 ## Completion condition
 
-The initial literature mapping, first targeted novelty review, and third integration review are complete at first-pass level. Phase 0 is not complete until the closest procedural frameworks have been directly compared and the preliminary definitions are checked against them.
+Phase 0 is not complete until the closest procedural frameworks have been directly compared and the preliminary definitions are checked against them.
+
+After that comparison, the next step should be to design the smallest empirical test that could distinguish the proposed operation from existing methods.
