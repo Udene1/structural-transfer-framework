@@ -210,3 +210,43 @@ The critical missing observation is the **private/commercial agricultural-credit
 - CBN, Commercial Agriculture Credit Scheme: https://www.cbn.gov.ng/DFD/agriculture/cacs.html
 - CBN, Monetary Policy Review August 2024: https://www.cbn.gov.ng/Out/2025/CCD/MONETARY%20POLICY%20REVIEW%20August%202024.pdf
 - Ochulor et al. (2025), *Central Bank of Nigeria agricultural finance options and food Security in Nigeria*: https://www.ijrss.org/index.php/ijrss/article/view/561
+
+
+## New evidence: commercial credit is expensive under the tightening regime
+
+The objection that private/commercial credit should not be treated as a cheap substitute for intervention credit is supported by the observed interest-rate environment, although the exact pass-through to agricultural borrowers still needs direct measurement.
+
+CBN's Q2 2025 Economic Report reports an MPR of 27.50%, an average prime lending rate of 18.18%, and an average maximum lending rate of 29.82%. Thus commercial borrowing remained expensive even though the average prime rate was below the MPR; the maximum lending rate was above the MPR. The report also shows money-market rates around the policy corridor. citeturn0search6
+
+CBN's April 2025 report similarly records an average prime lending rate of 18.32% and maximum lending rate of 30.11%. citeturn0search7
+
+This matters because “private credit replaced intervention credit” cannot be treated as a frictionless explanation. If private agricultural borrowers faced rates near the prevailing commercial lending range, borrowing could remain costly even when credit was available.
+
+There is also prior CBN evidence that policy-rate changes do pass through to commercial-bank retail rates, although with relatively slow adjustment. A CBN study using 2007–2019 monthly data found significant adjustment of retail rates to standing-facility rates, but low speed of adjustment. citeturn0search2
+
+However, the pass-through evidence is not enough to establish the 2024–2025 agricultural effect. We still need borrower-level or sector-level evidence on actual agricultural loan rates, volumes, maturities and eligibility.
+
+### Revised financing hypothesis
+
+The financing branch should therefore test two possibilities simultaneously:
+
+1. **Transmission:** high policy and market rates raised agricultural financing costs and constrained some investment/working-capital decisions.
+2. **Insulation/substitution:** parts of agriculture continued operating through informal finance, retained earnings, household labour, trader/processor finance, subsidized/guaranteed schemes, or previously contracted loans whose rates were fixed or otherwise insulated.
+
+The key empirical question is no longer whether commercial credit was “cheap.” It was not generally cheap in the observed interest-rate environment. The question is **how much agricultural production depended on expensive market credit, and what financing sources substituted for it when intervention flows weakened.**
+
+This distinction matters for the broader monetary-transmission case: if agriculture expanded despite expensive credit because much of the relevant production was financed outside the conventional interest-rate channel, then the aggregate inflation response cannot be inferred from the policy rate alone.
+
+## Next evidence target
+
+Find, for 2023–2025:
+- average agricultural loan rates by bank/PFI where available;
+- agricultural loan volumes and outstanding balances;
+- loan tenor and whether rates were fixed/floating;
+- proportion of agricultural borrowers using formal credit;
+- trader/input-supplier finance and other informal financing;
+- crop-specific financing exposure;
+- timing of loan disbursement relative to planting;
+- whether farmers reduced, maintained or increased input purchases despite higher financing costs.
+
+Only after this can we estimate whether the agricultural supply increase occurred **through** or **despite** the monetary financing channel.
