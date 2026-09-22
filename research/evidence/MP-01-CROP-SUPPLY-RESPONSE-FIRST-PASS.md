@@ -395,3 +395,98 @@ The key output should be a **price-transmission timeline**, not another collecti
 
 That timeline can then be compared against crop production and area changes.
 
+
+
+## New evidence pass: the HFCP dataset is now confirmed usable for the transmission test
+
+The World Bank/NBS catalogue confirms that the HFCP release contains separate market-segment observations for **Farmgate, Wholesale and Retail**. The raw combined file has 220,214 records, while commodity-specific files contain roughly 140,000–203,000 records each for December 2024–June 2025. citeturn1view0turn4search4
+
+For local rice, the dedicated file has 198,630 records and includes date, state, LGA, rural/urban context, market type, market segment, price per kg, daily mean and daily standard deviation. citeturn2view0
+
+This matters because we can now formulate an observable test rather than merely discuss supply.
+
+### What we should look for
+
+For each commodity, estimate the market-segment price path:
+
+**Farmgate(t) → Wholesale(t) → Retail(t)**
+
+Then examine:
+
+- first sustained decline in each segment;
+- lag between segments;
+- producing versus consuming locations;
+- rural versus urban locations;
+- price spreads between segments;
+- whether the pattern coincides with harvest periods.
+
+A domestic-supply shock should have a particularly strong prediction: **price pressure should appear near the production/marketing end of the chain before or alongside the consumer-price response**, especially in producing areas.
+
+That is not a theorem—storage, trader behaviour and transportation can alter the timing—but it gives us a falsifiable pattern.
+
+### Important methodological support
+
+Earlier Nigerian crowdsourcing research explicitly separated farmgate, wholesale and retail channels and documented price declines around harvest periods. citeturn4search12
+
+The World Bank's validation work on Nigerian maize also found strong covariance between crowdsourced and independently estimated prices across market segments, with segment-specific relationships and a typical ordering of farmgate < wholesale < retail in the validation setting. This supports using the HFCP data to study market-segment dynamics, while not eliminating its sampling limitations. citeturn4search17
+
+### What the new evidence changes
+
+We should **not** yet say:
+
+> “Farmers produced more, therefore they caused food prices to fall.”
+
+But we can now ask a much stronger question:
+
+> **Did the 2025 food-price reversal originate at the producer/wholesale end of the market, and did that reversal occur in locations/times consistent with increased domestic supply?**
+
+If yes, the domestic-supply hypothesis gains evidence.
+
+If no, we investigate competing mechanisms more aggressively.
+
+### Another warning: expensive credit does not imply no production response
+
+FAO's April 2025 Nigeria country brief reports that elevated input prices and increased difficulty obtaining loans, partly associated with high interest rates, were expected to constrain agricultural activity. citeturn0search5
+
+That is useful evidence for the credit branch, but it is an expectation/constraint assessment, not evidence that production actually declined.
+
+The coexistence of:
+
+**expensive financing / financing constraints**
+
+and
+
+**higher measured 2025 production**
+
+is therefore not a contradiction yet.
+
+It means production must have been generated through some combination of:
+
+- productivity/yield changes;
+- cultivated-area changes;
+- weather;
+- farmer behaviour;
+- existing capital;
+- alternative financing;
+- intervention finance;
+- labour substitution;
+- technology/input changes;
+- imports (for market supply, though not domestic production);
+- or other mechanisms.
+
+The next step is to identify which of these actually moved.
+
+## Current status after this pass
+
+**Observed:**
+- major staple production increased in 2025;
+- major staple prices declined substantially;
+- the HFCP dataset contains the exact market-segment and geographic variables needed to examine the timing of the price reversal.
+
+**Not established:**
+- that the price decline was caused by a bumper harvest;
+- that high 2024 prices caused farmers to expand production;
+- that expensive credit materially reduced agricultural output;
+- that monetary tightening caused the food-price decline.
+
+**Next operation:** reconstruct the commodity-level farmgate/wholesale/retail price timeline and compare it with crop-specific harvest/production timing.
