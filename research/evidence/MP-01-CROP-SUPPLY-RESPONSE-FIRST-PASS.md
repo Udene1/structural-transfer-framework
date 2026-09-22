@@ -139,3 +139,127 @@ The strongest test is temporal and spatial:
 > **If new domestic supply is driving the price decline, where and when should the price reversal appear first?**
 
 That prediction can be checked rather than assumed.
+
+
+## New evidence check: July 2024 → July 2025 commodity prices
+
+The 2025 Wet Season Agricultural Performance Survey provides a particularly useful cross-check because it reports the same commodity prices across all six geopolitical zones.
+
+For July 2024 versus July 2025 it reports:
+
+- white maize: national mean ₦961/kg → ₦456/kg (**-52.5%**);
+- milled rice: ₦1,501/kg → ₦982/kg (**-34.6%**);
+- brown sorghum: ₦988/kg → ₦491/kg (**-50.2%**);
+- brown cowpea: ₦2,035/kg → ₦1,114/kg (**-45.2%**).
+
+The declines occur in every geopolitical zone for these commodities. citeturn0search4
+
+This is important because the pattern is broader than a single local market anecdote. It is consistent with a nationwide supply/market-price change.
+
+But it still does not identify the cause.
+
+The same survey reports that 2025 rainfall was more favorable in some regions and created opportunities for multiple planting cycles, while irregular rainfall, dry spells, erosion and water stress continued to constrain production elsewhere. citeturn1view1
+
+Therefore even the production increase has several possible sources. We cannot equate it with a price-induced farmer response.
+
+## New evidence check: within-year 2025 market movement
+
+The CBN's Q2 2025 Economic Report reports that many monitored agricultural commodity prices fell in Q2 relative to Q1. It attributes the movement primarily to improved supply for some staples, while noting that seasonality pushed prices upward for nine of the twenty monitored commodities. citeturn4search6
+
+Examples from the same table:
+
+- brown beans: Q1 → Q2 **-34.30%**;
+- white beans: **-39.34%**;
+- white garri: **-5.81%**;
+- white maize: **-1.63%**;
+- yellow maize: **-0.85%**;
+- local rice: **-2.62%**;
+- tomato: **-4.25%**.
+
+At the same time, onions rose **23.95%**, yam rose **11.00%**, and palm oil rose **13.23%**. citeturn4search6
+
+This heterogeneity is useful.
+
+If a single national monetary mechanism were the only relevant mechanism, we would expect much less reason to see such crop-specific divergence. But we should not infer from this observation that monetary policy had no effect. It simply establishes that food-market mechanisms are heterogeneous and must be investigated at commodity level.
+
+## New evidence check: the high-frequency dataset is suitable for the next test
+
+The NBS/World Bank High Frequency Crowdsourced Prices dataset contains daily observations from December 1, 2024 through June 27, 2025 for ten staple commodities, with retail, wholesale and farmgate market segments, state and LGA identifiers, and urban/rural classification. It contains roughly 1.4–2.0 lakh observations for each major commodity. citeturn1view0turn3search3
+
+The local-rice file alone contains 198,630 records and includes date, geopolitical zone, state, LGA, rural/urban sector, market type, market segment, price per kg and daily mean price. citeturn3search1
+
+The dataset has an important limitation: it uses crowdsourcing. The World Bank/NBS metadata acknowledge self-selection/digital-competency bias, although the final cohort was spatially stratified and the data were checked against trained-enumerator observations. The validation metrics reportedly showed strong agreement in distribution and temporal movement. citeturn1view0
+
+So it is appropriate for **market dynamics and timing**, but should not silently be treated as a probability sample of every transaction in Nigeria.
+
+## A stronger causal clue from the CBN evidence
+
+The CBN Q2 report explicitly says improved supply was the primary driver of declines in many monitored agricultural commodity prices, but also identifies seasonality as important. citeturn4search6
+
+This gives us a useful empirical split:
+
+**Observed:** agricultural commodity prices fell for many staples.
+
+**Institutional interpretation:** improved supply was an important driver.
+
+**Still unresolved for our research:** what generated the improved supply?
+
+Possibilities include:
+- larger planted area;
+- higher yields;
+- favorable rainfall;
+- multiple planting cycles;
+- improved inputs/practices;
+- security;
+- imports;
+- policy interventions;
+- normal seasonal harvest dynamics;
+- some combination.
+
+That is precisely where the user's farmer-incentive hypothesis needs to be tested rather than assumed.
+
+## Revised hypothesis tree
+
+We should now test three nested propositions separately:
+
+### H1 — Supply mattered
+
+2025 physical availability increased enough to reduce prices of important food commodities.
+
+Current evidence: **substantial support**, especially from the commodity-price and agricultural-output observations.
+
+### H2 — Domestic production was the main source of that additional supply
+
+Current evidence: **plausible but unresolved**.
+
+Imports and other supply channels remain material competitors.
+
+### H3 — High 2024 prices caused a behavioral production response that materially generated the 2025 supply increase
+
+Current evidence: **unresolved**.
+
+The current production tables do not establish this behavioral link.
+
+This decomposition is better than asking prematurely whether "farmers flooded the market."
+
+## Next test
+
+The next step is no longer simply to collect more national price statistics.
+
+We need to identify **the first point in the supply chain where the price reversal appears**.
+
+For each commodity:
+
+**farmgate → wholesale → retail**
+
+and across producing versus consuming regions.
+
+If farmgate prices fall first in producing regions around harvest arrival, followed by wholesale and retail prices, that would be evidence consistent with a domestic-supply mechanism.
+
+If retail prices fall without a corresponding farmgate movement, other explanations become more important.
+
+If imported-rice prices fall alongside local-rice prices, import/FX competition becomes more important.
+
+If prices fall at roughly the same time across crops with very different production cycles, a common macro factor becomes more plausible.
+
+These are empirical discriminators, not conclusions.
