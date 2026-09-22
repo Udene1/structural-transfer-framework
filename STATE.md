@@ -2,7 +2,7 @@
 
 **Project:** Structural Transfer and Economic Policy  
 **Repository:** Udene1/structural-transfer-framework  
-**Status:** Phase 0 active; targeted novelty/boundary review continues. A close 2026 preprint materially narrows the candidate contribution; novelty remains unresolved.
+**Status:** Phase 0 active; third integration review completed at first-pass level. A close 2026 preprint and established economic-policy transmission literature materially narrow the candidate contribution; novelty remains unresolved.
 
 ## Identity
 
@@ -94,8 +94,9 @@ Initial literature map completed across policy transfer, policy diffusion, insti
 - Henderson (published online 2025) shows that causal mechanisms are already an explicit concern in negative policy-transfer research and argues for more mechanism-focused analysis of negative cases.
 - Causal transportability already formalizes source/target differences, contextual factors, causal pathways, and testable assumptions.
 - The strongest remaining question is therefore not whether causal structure matters, but whether an existing or new framework can integrate policy-transfer analysis, causal transportability, mechanism-level structure, and economic-policy institutional conditions into a testable case protocol.
-- A 2026 non-peer-reviewed preprint now provides a close contextual-validity diagnostic for policy transfer. It must be treated as prior art and compared directly before any contribution is claimed.
-- This possible integration is not yet established as novel.
+- A 2026 non-peer-reviewed preprint provides a close contextual-validity diagnostic for policy transfer and is being treated as prior art.
+- Monetary- and fiscal-policy transmission literatures already explicitly model structural heterogeneity across countries, so structural conditionality itself is not a contribution.
+- The remaining candidate boundary is a possible mechanism-level transfer audit joining source evidence, causal mechanism, required structures, target correspondence, observed operation, implementation conditions, and competing explanations. This is not yet established as novel.
 
 ## Current open questions
 
@@ -112,7 +113,7 @@ No substantive empirical conclusion has yet been established by this repository.
 
 ## Current research direction
 
-The next task is to test whether the candidate gap is genuinely distinct from existing policy-transfer, institutional-transplantation, and transportability frameworks before formalizing the structural-transfer model.
+The third integration review is complete at first-pass level. Before formalizing the structural-transfer model, the next task is to inspect the closest procedural frameworks—realist CMO analysis, mechanism-based policy transfer, causal transportability/selection diagrams, institutional transplantation, and comparative policy-effectiveness—to determine whether they already provide the proposed mechanism-level transfer audit.
 
 ## State update rule
 
