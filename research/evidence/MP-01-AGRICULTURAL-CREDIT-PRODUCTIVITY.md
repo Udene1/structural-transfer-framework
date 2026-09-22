@@ -250,3 +250,20 @@ Find, for 2023–2025:
 - whether farmers reduced, maintained or increased input purchases despite higher financing costs.
 
 Only after this can we estimate whether the agricultural supply increase occurred **through** or **despite** the monetary financing channel.
+
+
+## New farmer-level financing evidence
+
+A February 2025 Food Price Baseline Survey covering 543 smallholder farmers in Ondo, Kano, Niger, Kaduna and Benue reported that 84% operated on 1–4 acre holdings, 60% financed farming through personal savings, and only 12% accessed formal credit. Lack of finance was the most commonly reported challenge, at 54%. citeturn5search0turn5search1
+
+This is important for the monetary-transmission branch because it provides direct evidence that, in this surveyed group, farming finance was not synonymous with commercial bank borrowing. Personal savings and family labour were prominent. That creates a plausible insulation/substitution channel through which a high policy rate may have weaker direct effects on some smallholder production decisions.
+
+However, the survey is a February 2025 cross-section of 543 farmers in five states. It does not establish the financing source used for the 2024 planting season, the interest rate actually faced by each farmer, whether savings were accumulated from the 2024 high-price environment, or whether farmers changed input use because of interest rates.
+
+### New incentive evidence
+
+The same survey reported that 64% of surveyed farmers felt economically better off because of recent high crop prices, while 82.5% intended to continue cultivating their primary crops. Farmers considering switching cited high input costs, pests, diseases and low yields among their reasons. citeturn5search1
+
+This supports the existence of a price/incentive channel but does not show that high 2024 prices caused the 2025 national production increase. It suggests that **continuation and crop choice may be more important margins than farmer entry** for this episode.
+
+The next farmer-level test should seek evidence on 2024 versus 2025 cultivated area by crop, crop switching, input quantities/expenditure, expected versus realized crop prices, financing source/effective cost, planting dates, harvest dates and yield changes.
