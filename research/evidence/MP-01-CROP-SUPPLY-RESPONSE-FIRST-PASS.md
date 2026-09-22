@@ -544,3 +544,49 @@ What we still do **not** know is the crucial empirical result:
 > **Which market segment moved first, where did it move first, and did that timing coincide with new domestic supply?**
 
 That remains the next research operation.
+
+## New behavioral evidence: market prices can affect crop choices, but this is not yet the 2025 causal link
+
+A 2024 Agricultural Productivity Survey published by Nigeria's Federal Ministry of Industry, Trade and Investment/Department of Productivity reports that agricultural performance was influenced by **shifts in crop preferences due to market prices**, alongside favorable weather and institutional support. The report also notes that pest/disease pressure and post-harvest losses affected production. citeturn5search35
+
+This is materially relevant to H3 because it establishes that a price-to-production/crop-choice channel is not merely theoretical in the Nigerian agricultural context. However, it does **not** establish that the exceptionally high 2024 food prices caused the 2025 production increase. The survey's statement concerns agricultural performance in 2024 and is not an episode-specific identification of the 2024-price → 2025-output mechanism.
+
+The correct research sequence therefore becomes:
+
+**general Nigerian evidence that prices influence crop choice** → **2024 observed price incentives** → **2025 planting/area/crop-switching evidence** → **2025 output**.
+
+The middle link remains the missing piece.
+
+## New financing evidence: agricultural credit was not simply absent
+
+CBN's Q1 2025 Economic Report reports agriculture-sector credit allocation of ₦3,168.67 billion in March 2025, up from ₦2,854.51 billion in December 2024 and ₦2,581.33 billion in March 2024. CBN states that the increase reflected preparation for wet-season farming. citeturn5search34
+
+This changes the credit branch in an important way. We cannot describe the 2025 production episode as occurring in an environment where agricultural credit simply disappeared. At the same time, aggregate sectoral credit allocation does not tell us:
+
+- which farmers received the credit;
+- whether it was new lending or existing balances;
+- effective interest rates;
+- loan tenor;
+- crop exposure;
+- formal versus informal financing;
+- or whether the additional credit financed the specific 2025 output increase.
+
+CBN separately states that traditional-bank access remains a major agricultural constraint and that less than 5% of banks' credit is granted to agriculture, while its ACGSF provides guarantees and an interest-drawback mechanism for eligible agricultural borrowers. citeturn5search9turn5search0
+
+Therefore the financing hypothesis now has to distinguish **aggregate credit availability** from **effective financing received by the marginal farmer/producer whose output changed**.
+
+## Updated H3 and credit questions
+
+### H3 — Price-induced production response
+
+**New evidence:** Nigerian agricultural survey evidence documents that market prices can influence crop preferences.
+
+**Still unresolved:** whether the unusually high 2024 food-price environment caused a sufficiently large 2025 area/crop-choice/input response to explain a material share of the subsequent supply increase.
+
+### Credit channel
+
+**New evidence:** agriculture-sector credit allocation increased into Q1 2025, while CBN intervention programmes had previously been winding down during H1 2024.
+
+**Still unresolved:** whether expensive market credit constrained production, whether subsidized/guaranteed credit insulated particular producers, and what financing actually funded the 2024 planting decisions.
+
+The next useful farmer-level evidence is therefore not another national credit total. It is evidence on **who borrowed, at what rate, for which crop, when the loan was disbursed, and whether the financing changed the farmer's planting/input decision**.
