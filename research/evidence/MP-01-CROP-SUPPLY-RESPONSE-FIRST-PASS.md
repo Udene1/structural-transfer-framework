@@ -618,3 +618,48 @@ The empirical model should therefore test four responses separately:
 4. input intensity/yield.
 
 A large 2025 output increase can occur through (2)–(4) without evidence for (1).
+
+
+## Data-access finding: the HFCP microdata are publicly catalogued but not directly retrievable in this research pass
+
+A fresh check of the World Bank catalogue confirms that the HFCP release is an open-data study with 11 data files and daily observations from 1 December 2024 through 27 June 2025. The catalogue explicitly exposes the market-segment variable (Farmgate, Wholesale, Retail), rural/urban sector, state/LGA, date, price per kilogram, daily mean and outlier flag. citeturn1view0turn1view1
+
+The catalogue also reports 242+ downloads and provides a “Get Microdata” route, subject to the dataset terms. citeturn1view0turn2view0
+
+The current research environment can inspect the catalogue and metadata but has not obtained the underlying records themselves. I therefore will **not manufacture a price timeline from metadata**. The actual farmgate → wholesale → retail test remains pending access to the records.
+
+This is now a documented data-access constraint rather than an assumed absence of data.
+
+### What can already be established from the metadata
+
+The intended identification test is feasible in principle because the released files contain:
+
+- daily date;
+- commodity;
+- Farmgate / Wholesale / Retail segment;
+- rural / urban context;
+- state and LGA;
+- observed price per kg;
+- daily mean and standard deviation;
+- outlier indicator.
+
+The World Bank/NBS validation compares crowd submissions with trained-enumerator observations and reports strong agreement metrics across commodities, while the catalogue still warns that the crowdsourced data do not replace official market statistics. citeturn1view0
+
+### Research consequence
+
+Until the microdata are obtained, use official aggregate commodity-price tables only for **directional evidence** and not for the proposed lead-lag test.
+
+The next empirical target is therefore unchanged but now precisely specified:
+
+**commodity × date × market segment × geography**
+
+→ identify first sustained producer-side decline
+
+→ compare with wholesale and retail
+
+→ align with crop harvest/arrival timing
+
+→ compare producing versus consuming regions
+
+→ introduce imports and weather as competing explanations.
+
