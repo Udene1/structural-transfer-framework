@@ -590,3 +590,31 @@ Therefore the financing hypothesis now has to distinguish **aggregate credit ava
 **Still unresolved:** whether expensive market credit constrained production, whether subsidized/guaranteed credit insulated particular producers, and what financing actually funded the 2024 planting decisions.
 
 The next useful farmer-level evidence is therefore not another national credit total. It is evidence on **who borrowed, at what rate, for which crop, when the loan was disbursed, and whether the financing changed the farmer's planting/input decision**.
+
+
+## New evidence pass: direct smallholder financing and price-response baseline
+
+A February 2025 survey of 543 smallholder farmers across Ondo, Kano, Niger, Kaduna and Benue provides useful direct evidence about the financing and incentive environment, although it is not a nationally representative causal panel. Reported findings include: 84% of surveyed farmers operated on 1–4 acre holdings; 60% financed farming through personal savings; only 12% accessed formal credit; 54% identified lack of finance as their leading challenge; and 64% said they felt economically better off because of recent high crop prices. The survey also reported that 82.5% intended to continue cultivating their primary crops, while farmers considering a switch cited high input costs, pests, diseases and low yields as reasons. citeturn5search0turn5search1
+
+This moves the investigation closer to the farmer level: high crop prices were associated with a reported improvement in farmers' economic position, formal credit reached only a minority of surveyed farmers, and personal savings were a major financing source.
+
+It still does **not** establish the proposed 2024-price → 2025-output mechanism. The survey was conducted in February 2025 and does not provide a before/after panel linking individual farmers' 2024 prices to their 2025 planting decisions and realized output.
+
+The correct interpretation is therefore:
+
+**Observed:** price incentives mattered to reported farmer economic conditions, and formal credit was uncommon in this surveyed group.
+
+**Not established:** that high 2024 prices caused a large expansion in cultivated area, farmer entry, or 2025 output.
+
+### New behavioral discriminator
+
+The incentive channel may operate differently from a simple “high price → more farmers” model. If many farmers are smallholders using personal savings and family labour, higher expected returns can change **crop allocation, input intensity, retained earnings and willingness to continue**, without requiring a large increase in the number of farming households.
+
+The empirical model should therefore test four responses separately:
+
+1. farmer entry/exit;
+2. cultivated area;
+3. crop switching;
+4. input intensity/yield.
+
+A large 2025 output increase can occur through (2)–(4) without evidence for (1).
