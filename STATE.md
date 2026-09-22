@@ -2,7 +2,7 @@
 
 **Project:** Structural Transfer and Economic Policy  
 **Repository:** Udene1/structural-transfer-framework  
-**Status:** Research programme initialized; evidence collection has not yet begun.
+**Status:** Phase 0 active; initial literature map completed and candidate research gap identified for investigation.
 
 ## Identity
 
@@ -44,6 +44,10 @@ Purpose: compare the empirical cases and determine what general conclusions, if 
 
 ## What is established
 
+- Initial literature review identifies established adjacent literatures in policy transfer, policy diffusion, institutional transplantation, context-sensitive development policy, and causal transportability.
+- The literature confirms that transfer/adaptation/context are established research topics; the novelty question therefore has to be narrower than "policy transfer."
+- A candidate research gap has been recorded: whether the preservation or alteration of the underlying causal/evidence-generating structure of a policy mechanism can serve as an explicit object of transfer analysis.
+
 - The four-paper research programme has been defined.
 - The research is intended to be empirical and falsifiable rather than advocacy.
 - Nigeria is an important empirical setting, but the conceptual framework must remain broader than Nigeria.
@@ -75,13 +79,13 @@ These require research.
 
 ## Current phase
 
-**Phase 0 — Research laboratory setup**
+**Phase 0 — Research laboratory setup / literature mapping**
 
 The immediate task is to establish the research ontology and literature map before drafting Paper 1.
 
 ## Last completed action
 
-Repository created and initial research programme defined.
+Initial literature map completed across policy transfer, policy diffusion, institutional transplantation, context-sensitive development policy, and external validity/transportability.
 
 ## Current open questions
 
@@ -94,7 +98,11 @@ Repository created and initial research programme defined.
 
 ## Evidence status
 
-No substantive empirical conclusion has yet been established by this repository.
+No substantive empirical conclusion has yet been established by this repository. The literature map is an initial research artifact, not evidence for the proposed framework.
+
+## Current research direction
+
+The next task is to test whether the candidate gap is genuinely distinct from existing policy-transfer, institutional-transplantation, and transportability frameworks before formalizing the structural-transfer model.
 
 ## State update rule
 
