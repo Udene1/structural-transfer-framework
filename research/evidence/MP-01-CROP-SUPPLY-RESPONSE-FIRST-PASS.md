@@ -490,3 +490,57 @@ The next step is to identify which of these actually moved.
 - that monetary tightening caused the food-price decline.
 
 **Next operation:** reconstruct the commodity-level farmgate/wholesale/retail price timeline and compare it with crop-specific harvest/production timing.
+
+
+## Evidence pass: data access and fallback series (2026-09-22)
+
+A further check of the World Bank/NBS HFCP catalogue confirms that the 2024–2025 high-frequency dataset is a genuine public microdata release, not merely a dashboard description. The catalogue reports 11 data files, daily observations from 1 December 2024 through 27 June 2025, coverage of all 36 states plus the FCT, and separate Farmgate, Wholesale and Retail market universes. It also documents the validation procedure against trained NBS enumerators. citeturn1view0
+
+The catalogue also makes an important methodological limitation explicit: volunteer recruitment involved self-selection and digital-competency bias, even though the final cohort was spatially stratified and included 731 volunteers plus 18 trained enumerators for validation. The World Bank/NBS documentation reports strong agreement between crowd and enumerator series on distributional and temporal measures, but explicitly warns that the data do not replace official market statistics. citeturn1view0
+
+### New fallback data source
+
+A second World Bank dataset is available as an open-data monthly price series: **Monthly food price estimates by product and market**, covering Nigeria from January 2007 through August 2026 and 73 markets. It combines direct price measurements with machine-learning estimates for missing observations and draws on WFP and FAO price sources. citeturn0search4
+
+This gives the research two complementary layers:
+
+1. **HFCP (Dec 2024–Jun 2025):** high-frequency, market-segment and sub-national observations; best suited to testing the timing of farmgate → wholesale → retail movements.
+2. **World Bank monthly food-price estimates (2007–2026):** longer historical coverage; useful for checking whether observed 2025 movements are unusual relative to historical seasonal patterns and for constructing pre-2024 baselines.
+
+The second series should not be substituted for the HFCP market-segment test because its methodology includes imputation and its market coverage differs. It is a robustness/comparison series.
+
+### Revised immediate empirical sequence
+
+The next analysis should therefore proceed in this order:
+
+**A. HFCP transmission test**
+- identify the commodity files;
+- calculate weekly market-segment summaries;
+- estimate first sustained decline by Farmgate, Wholesale and Retail;
+- compare producing versus consuming regions;
+- inspect rural versus urban timing.
+
+**B. Historical seasonal benchmark**
+- use the World Bank monthly series to establish the normal seasonal path for the same commodities;
+- compare 2025 against earlier years;
+- avoid interpreting a normal harvest-season decline as an exceptional policy effect.
+
+**C. Production linkage**
+- align price reversals with crop-specific harvest/production timing;
+- distinguish area expansion from yield/productivity;
+- search for direct farmer evidence connecting 2024 prices to 2025 planting decisions.
+
+**D. Competing supply channels**
+- add commodity-specific import timing/volumes;
+- particularly separate local rice from imported rice;
+- test whether FX/import changes coincide with the price reversal.
+
+### Current status after this pass
+
+The evidence base is now strong enough to move from broad narrative collection toward an actual **market-transmission reconstruction**.
+
+What we still do **not** know is the crucial empirical result:
+
+> **Which market segment moved first, where did it move first, and did that timing coincide with new domestic supply?**
+
+That remains the next research operation.
