@@ -263,3 +263,135 @@ If imported-rice prices fall alongside local-rice prices, import/FX competition 
 If prices fall at roughly the same time across crops with very different production cycles, a common macro factor becomes more plausible.
 
 These are empirical discriminators, not conclusions.
+
+
+## New investigation pass: what the price data can and cannot establish
+
+The newly checked World Bank/NBS HFCP metadata confirms that the market-level dataset contains separate **farmgate, wholesale and retail** observations, not merely a single consumer price series. It covers ten staple commodities from December 1, 2024 through June 27, 2025, across all 36 states and the FCT. The pre-processed files contain very large numbers of daily observations—for example, 199,828 white-maize records, 198,630 local-rice records and 202,059 white-bean records. citeturn1search0turn1search2
+
+This is exactly the structure needed to test the proposed supply-chain sequence:
+
+**farmgate → wholesale → retail**
+
+The metadata also confirms that the market-segment variable explicitly distinguishes Farmgate, Wholesale and Retail. citeturn1search3
+
+### A useful new discriminator
+
+The hypothesis is not simply:
+
+> “food became cheaper because farmers produced more.”
+
+The stronger test is:
+
+> **Did the price reversal appear first at the producer/wholesale end of markets in locations and periods where additional supply should arrive?**
+
+If yes, that would be evidence consistent with a physical-supply mechanism.
+
+If retail prices fall substantially without an earlier farmgate/wholesale decline, the farmer-supply explanation becomes weaker and other mechanisms become more important.
+
+If farmgate prices fall but production does not increase, we need to investigate inventories, imports, demand and seasonal market clearing.
+
+If local and imported commodities move differently, that gives us another way to separate domestic production from import/FX effects.
+
+### Important caution on the HFCP data
+
+The dataset is unusually useful, but it is not a conventional probability sample of transactions. It was collected through citizen-science crowdsourcing with 731 volunteers plus 18 trained enumerators. The World Bank/NBS documentation explicitly identifies self-selection and digital-competency bias, although the final cohort was spatially stratified and the crowdsourced series was validated against trained-enumerator observations. The producers report strong agreement in distributional and temporal measures. citeturn1search0
+
+Therefore we should use it primarily for **timing, relative movements, market-segment relationships and spatial patterns**, while cross-checking important findings against NBS/CBN/NAERLS statistics.
+
+## New evidence on the production-price relationship
+
+The official 2025 NAERLS/FMAFS survey reports that major staples increased production relative to 2024, while the same report documents very large July 2024→July 2025 price declines: white maize -52.5%, milled rice -34.6%, brown sorghum -50.2% and brown cowpea -45.2%. The declines occurred across all six geopolitical zones for those commodities. citeturn0search8
+
+This strengthens the observation that **higher measured agricultural output and substantially lower commodity prices occurred together**.
+
+It still does not establish the direction of causality.
+
+The remaining possibilities include:
+
+- higher output causing lower prices;
+- favorable weather increasing output and independently affecting prices;
+- seasonal harvest effects;
+- imports adding supply;
+- demand weakening;
+- inventories being released;
+- lower distribution or transaction costs;
+- policy/intervention effects;
+- or combinations of these.
+
+### The farmer-incentive hypothesis remains open
+
+The 2024 NAERLS survey records exceptionally large food-price increases before the 2025 production season. For example, July 2024 white maize was ₦961/kg versus ₦452/kg in July 2023, local rice ₦1,501 versus ₦742, and brown cowpea ₦2,035 versus ₦742. citeturn0search9
+
+Those price signals make a farmer-response mechanism economically plausible, but they do **not** demonstrate that farmers responded by expanding production.
+
+The evidence we still need is behavioral:
+
+**2024 price/expected return → planting decision → cultivated area/crop choice/input use → 2025 output**
+
+The current NAERLS area figures alone cannot establish that chain.
+
+## New distinction: “cheap selling” does not necessarily mean “bumper harvest”
+
+The user's intuition is useful but needs one refinement.
+
+A farmer can sell at a lower price because **the marginal value of additional output has fallen**, but that can happen for several reasons besides an exceptionally large harvest.
+
+For example:
+
+**A. More physical supply**
+- higher yield;
+- more hectares;
+- more planting cycles;
+- reduced losses.
+
+**B. More competing supply**
+- imports;
+- neighboring-country inflows;
+- release of inventories.
+
+**C. Lower effective demand**
+- consumers buy less;
+- traders hold less inventory;
+- purchasing power weakens.
+
+**D. Lower selling costs / market frictions**
+- transport or transaction costs fall;
+- market access improves.
+
+Therefore the research should not define “cheap food” as proof of a bumper harvest. It should identify **which market margin moved, when it moved, and what happened to physical availability**.
+
+## Current research state
+
+The evidence now supports a narrower proposition:
+
+> **There was a substantial food-market price reversal during 2025, coinciding with measured increases in production for major crops.**
+
+It does **not yet establish**:
+
+> **High 2024 prices caused farmers to produce substantially more.**
+
+And it does **not establish**:
+
+> **Monetary tightening caused or did not cause the price reversal.**
+
+Those remain competing explanations to be tested.
+
+## Next empirical operation
+
+The next useful operation is to obtain the HFCP commodity files themselves and calculate, by commodity and market segment:
+
+1. daily/weekly farmgate median or mean;
+2. wholesale median or mean;
+3. retail median or mean;
+4. farmgate→wholesale spread;
+5. wholesale→retail spread;
+6. first sustained downward break;
+7. regional timing of that break;
+8. comparison with known harvest periods;
+9. comparison with imports where available.
+
+The key output should be a **price-transmission timeline**, not another collection of annual averages.
+
+That timeline can then be compared against crop production and area changes.
+
