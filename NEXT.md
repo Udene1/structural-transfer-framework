@@ -45,9 +45,44 @@ The first empirical pass found:
 - imports are a serious competing supply channel, especially for rice;
 - CPI rebasing means raw 2024→2025 headline comparisons require care.
 
-New artifact:
+New artifacts:
+- `research/evidence/MP-01-CROP-SUPPLY-RESPONSE-FIRST-PASS.md`
+- `research/evidence/MP-01-AGRICULTURAL-CREDIT-PRODUCTIVITY.md`
 
-`research/evidence/MP-01-CROP-SUPPLY-RESPONSE-FIRST-PASS.md`
+## New financing/productivity branch
+
+A second competing mechanism is now under investigation:
+
+**tight financial conditions → higher financing costs / reduced credit availability → weaker agricultural investment, labour demand or productivity.**
+
+This is a mechanism to test, not an assumed law.
+
+The 2024 NAERLS APS reports higher production costs for all reported crops relative to 2023. CBN also documents interest-support mechanisms for agricultural borrowers, which means the MPR cannot be treated as the financing rate faced by every farmer.
+
+The key question is therefore not whether high rates must reduce agricultural output. It is:
+
+**Given the actual financing channels available to Nigerian farmers, did tighter financial conditions materially constrain agricultural production during the 2024–2025 episode?**
+
+Decompose:
+
+**production = cultivated area × yield**
+
+and investigate:
+- agricultural lending volumes and effective rates;
+- subsidized/guaranteed credit;
+- input purchases;
+- farm labour costs and availability;
+- mechanisation;
+- crop switching;
+- area expansion;
+- yield/weather effects;
+- planting and harvest timing.
+
+The important empirical tension is:
+
+**tight financial conditions + observed 2025 production growth**
+
+This cannot be resolved by assuming either side is causally dominant.
 
 ## Immediate empirical operation
 
@@ -67,11 +102,11 @@ For maize, rice, garri/cassava, beans and other relevant staples, reconstruct:
 
 ### Core identification test
 
-If increased domestic supply is materially responsible for a price decline, the strongest evidence should appear as a temporal/spatial pattern:
+If increased domestic supply is materially responsible for a price decline, the strongest evidence should appear as:
 
 **new supply arrives → farmgate/wholesale prices weaken → retail prices follow**
 
-rather than simply:
+rather than:
 
 **national CPI falls → infer supply caused it.**
 
@@ -86,7 +121,7 @@ Then compare that pattern with:
 
 ## Farmer-incentive subtest
 
-Separately search for direct evidence of the proposed behavioral response:
+Separately search for direct evidence of:
 
 **2024 high prices → expected returns → planting/acreage/farmer participation decision.**
 
@@ -118,6 +153,8 @@ No overall causal verdict until the physical-market evidence is reconstructed.
 
 - Do not claim monetary policy failed.
 - Do not claim food supply caused the national inflation decline.
+- Do not claim high interest rates necessarily caused low agricultural productivity.
+- Do not treat observed production growth as proof against monetary transmission.
 - Do not treat NAERLS' interpretation as our causal conclusion.
 - Do not treat farmer anecdotes as representative evidence.
 - Do not use CPI alone to identify the mechanism.
@@ -129,5 +166,6 @@ No overall causal verdict until the physical-market evidence is reconstructed.
 Phase 0 remains open until:
 1. the empirical transfer audit is reconstructed;
 2. the competing food-supply mechanism has been tested against market-level evidence;
-3. the closest existing procedural frameworks have been compared;
-4. the smallest defensible contribution, if any, has been identified.
+3. the financing/productivity mechanism has been tested;
+4. the closest existing procedural frameworks have been compared;
+5. the smallest defensible contribution, if any, has been identified.
