@@ -19,7 +19,7 @@ Therefore no novelty claim is justified yet.
 
 ## Next action
 
-Run a second, narrower integration search for work that explicitly combines policy transfer with causal transportability/selection diagrams or applies transportability logic to economic policy institutions. The goal is to determine whether the proposed bridge already exists before freezing Paper 1's contribution.
+Run a third, narrower integration search after the discovery of the 2026 contextual-validity preprint. Compare its diagnostic dimensions and method against causal transportability, realist CMO analysis, policy-transfer mechanisms, and economic-policy transmission research. The goal is to identify the smallest defensible unresolved problem, if any.
 
 Conduct a structured literature review covering at least:
 
