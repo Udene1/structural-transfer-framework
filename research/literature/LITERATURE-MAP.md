@@ -110,3 +110,13 @@ The live research question is now whether an empirically usable framework can in
 - and explicit differentiation between implementation failure, mechanism failure, source-model error, and insufficient evidence.
 
 This remains a candidate integration problem, not a novelty claim.
+
+
+## Important 2026 preprint discovered — contextual validity in policy transfer
+Victor Frimpong's 2026 preprint, "Context Before Conclusions: A Diagnostic Framework for Contextual Validity in Policy Transfer," is a particularly close contemporary work. It explicitly connects policy transfer, external validity, transportability, realist evaluation and implementation science, and proposes a diagnostic framework for assessing whether contextual conditions remain aligned across settings. Its dimensions include epistemic alignment, institutional fit, cultural resonance and operational feasibility. The paper presents this as a pre-transfer diagnostic and uses Aadhaar as an illustrative case.
+
+This is **not peer-reviewed** as of the version located (posted 27 May 2026), but it must be treated as relevant prior work. It materially narrows any possible novelty claim.
+
+Important boundary: the preprint's framework is a qualitative contextual-validity diagnostic; it does not, in the version reviewed, establish a causal-graph/transportability formulation in which individual policy mechanisms are decomposed into necessary causal structures and those structures are tested against target evidence. That difference may matter, but it is not yet a novelty claim because other literature may already provide it.
+
+Source: https://doi.org/10.20944/preprints202605.1815
