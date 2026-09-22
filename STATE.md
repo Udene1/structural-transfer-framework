@@ -2,7 +2,7 @@
 
 **Project:** Structural Transfer and Economic Policy  
 **Repository:** Udene1/structural-transfer-framework  
-**Status:** Phase 0 active; initial literature map and targeted novelty/boundary review completed. Candidate contribution remains unresolved.
+**Status:** Phase 0 active; targeted novelty/boundary review continues. A close 2026 preprint materially narrows the candidate contribution; novelty remains unresolved.
 
 ## Identity
 
@@ -93,7 +93,8 @@ Initial literature map completed across policy transfer, policy diffusion, insti
 
 - Henderson (published online 2025) shows that causal mechanisms are already an explicit concern in negative policy-transfer research and argues for more mechanism-focused analysis of negative cases.
 - Causal transportability already formalizes source/target differences, contextual factors, causal pathways, and testable assumptions.
-- The strongest remaining question is therefore not whether causal structure matters, but whether policy-transfer analysis and causal-transportability analysis can be integrated into a practical framework for economic-policy transfer cases.
+- The strongest remaining question is therefore not whether causal structure matters, but whether an existing or new framework can integrate policy-transfer analysis, causal transportability, mechanism-level structure, and economic-policy institutional conditions into a testable case protocol.
+- A 2026 non-peer-reviewed preprint now provides a close contextual-validity diagnostic for policy transfer. It must be treated as prior art and compared directly before any contribution is claimed.
 - This possible integration is not yet established as novel.
 
 ## Current open questions
