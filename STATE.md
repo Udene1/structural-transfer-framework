@@ -2,7 +2,7 @@
 
 **Project:** Structural Transfer and Economic Policy  
 **Repository:** Udene1/structural-transfer-framework  
-**Status:** Phase 0 active; third integration review completed at first-pass level. A close 2026 preprint and established economic-policy transmission literature materially narrow the candidate contribution; novelty remains unresolved.
+**Status:** Phase 0 active. Targeted review now confirms that evidence-informed policymaking, policy learning, adaptive feedback, and economic diagnostics are established literatures. The candidate contribution remains unresolved and must be narrowed to the transfer-specific junction between source mechanism evidence, structural requirements, target evidence, and post-intervention updating.
 
 ## Identity
 
@@ -45,15 +45,25 @@ Purpose: compare the empirical cases and determine what general conclusions, if 
 ## What is established
 
 - Initial literature review identifies established adjacent literatures in policy transfer, policy diffusion, institutional transplantation, context-sensitive development policy, and causal transportability.
-- The literature confirms that transfer/adaptation/context are established research topics; the novelty question therefore has to be narrower than "policy transfer."
-- A candidate research gap was tested against closer literature. Existing scholarship already addresses causal mechanisms in policy transfer, negative transfer, and causal transportability across contexts.
-- The candidate contribution therefore cannot be claimed as invention of mechanism-sensitive transfer or source-to-target causal analysis.
-- A narrower candidate contribution remains under investigation: an integrated, empirically usable framework for tracing economic-policy mechanisms from source evidence through required structures to target correspondence, while separating implementation failure from mechanism-transfer failure.
+- Causal mechanisms are already studied in policy-transfer research, including negative transfer.
+- Causal transportability already formalizes source/target differences, contextual factors, causal pathways, and assumptions.
+- Policy transfer literature already contains evidence-informed learning routes involving evaluation and piloting.
+- Evidence-informed policymaking literature explicitly studies evidence use across the policy cycle and feedback mechanisms.
+- Adaptive-policy literature already formalizes monitoring, triggers, and mid-course adjustment.
+- Economic-diagnostics literature already describes a sequence from observed facts to causal diagnosis to policy intervention; IMF guidance explicitly requires testable implications to be confronted with data before moving from diagnosis to policy therapy.
+- Therefore none of the following can be claimed as a new contribution: evidence-informed policy, policy learning, adaptive feedback, economic diagnosis, or structural conditionality by itself.
 
-- The four-paper research programme has been defined.
-- The research is intended to be empirical and falsifiable rather than advocacy.
-- Nigeria is an important empirical setting, but the conceptual framework must remain broader than Nigeria.
-- The economics research must remain independent of Cognitia.
+## New targeted-review finding
+
+The sharper candidate boundary is now:
+
+> When a policy mechanism is learned from another environment or historical period, what evidence is required to establish that the mechanism's operative structural conditions are present in the target environment, and how should subsequent observations update the transfer assessment?
+
+The candidate empirical audit is:
+
+**source observation → source diagnosis → source evidence → mechanism → required structures → target observation → target diagnosis → structural correspondence → intervention → implementation → response → alternatives → updating → transfer status.**
+
+This is an integration candidate, not a novelty claim. The next task is to test it directly against the closest procedural frameworks.
 
 ## What is not established
 
@@ -62,7 +72,9 @@ Purpose: compare the empirical cases and determine what general conclusions, if 
 - That monetary policy currently fails in Nigeria.
 - That fiscal federalism currently fails in Nigeria.
 - That any particular alternative policy regime would produce better outcomes.
-- That the proposed framework is novel relative to existing scholarship.
+- That policymakers ignore evidence or apply theory verbatim.
+- That the proposed audit is novel relative to existing scholarship.
+- That any observed policy outcome is caused by structural mismatch.
 
 These require research.
 
@@ -87,33 +99,32 @@ The immediate task is to establish the research ontology and literature map befo
 
 ## Last completed action
 
-Initial literature map completed across policy transfer, policy diffusion, institutional transplantation, context-sensitive development policy, and external validity/transportability.
+A targeted review of the evidence-to-diagnosis-to-intervention-to-updating literature was completed and recorded in:
 
-## New findings from targeted review
+research/literature/EVIDENCE-BRIDGE-TRANSFER-LEARNING-REVIEW.md
 
-- Henderson (published online 2025) shows that causal mechanisms are already an explicit concern in negative policy-transfer research and argues for more mechanism-focused analysis of negative cases.
-- Causal transportability already formalizes source/target differences, contextual factors, causal pathways, and testable assumptions.
-- The strongest remaining question is therefore not whether causal structure matters, but whether an existing or new framework can integrate policy-transfer analysis, causal transportability, mechanism-level structure, and economic-policy institutional conditions into a testable case protocol.
-- A 2026 non-peer-reviewed preprint provides a close contextual-validity diagnostic for policy transfer and is being treated as prior art.
-- Monetary- and fiscal-policy transmission literatures already explicitly model structural heterogeneity across countries, so structural conditionality itself is not a contribution.
-- The remaining candidate boundary is a possible mechanism-level transfer audit joining source evidence, causal mechanism, required structures, target correspondence, observed operation, implementation conditions, and competing explanations. This is not yet established as novel.
-
-## Current open questions
-
-- What existing literatures already address policy transfer, institutional transplantation, external validity, context dependence, and policy effectiveness?
-- What exactly constitutes a "structure" in a transferable economic policy?
-- How should structural equivalence be operationalized?
-- How can transfer success or failure be distinguished from implementation failure?
-- How should source and target environments be selected?
-- What empirical tests can distinguish competing explanations?
+Commit: 7efbe5d0f5343e1bd42c95db7a29e119a7daf151
 
 ## Evidence status
 
-No substantive empirical conclusion has yet been established by this repository. The literature map is an initial research artifact, not evidence for the proposed framework.
+No substantive empirical conclusion has yet been established by this repository.
+
+The literature review now establishes that the components of evidence-responsive policy practice are well established. What remains uncertain is whether existing frameworks already provide the proposed transfer-specific empirical audit at the junction of:
+
+**source mechanism evidence ↔ structural requirements ↔ target evidence ↔ post-intervention updating.**
 
 ## Current research direction
 
-The third integration review is complete at first-pass level. Before formalizing the structural-transfer model, the next task is to inspect the closest procedural frameworks—realist CMO analysis, mechanism-based policy transfer, causal transportability/selection diagrams, institutional transplantation, and comparative policy-effectiveness—to determine whether they already provide the proposed mechanism-level transfer audit.
+Directly compare the proposed audit with:
+
+- realist CMO analysis;
+- mechanism-based policy transfer;
+- causal transportability / selection diagrams;
+- institutional transplantation;
+- comparative policy-effectiveness;
+- policy evaluation and learning.
+
+The comparison must determine whether the proposed audit is already supplied by existing methods, is only a recombination of established methods, or leaves a defensible operational gap.
 
 ## State update rule
 
