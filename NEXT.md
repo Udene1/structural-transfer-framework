@@ -10,7 +10,7 @@ Build the conceptual and literature foundation for Paper 1 before drafting its a
 
 ## Completed action
 
-The targeted novelty and boundary review has now been completed at the first-pass level. It found two important constraints on the candidate gap:
+The targeted novelty and boundary review and a third integration review have now been completed at first-pass level. It found two important constraints on the candidate gap:
 
 1. causal mechanisms are already studied in policy-transfer research, including recent work specifically on negative transfer;
 2. causal transportability already provides a formal source-to-target framework for contextual and mechanism differences.
@@ -19,7 +19,7 @@ Therefore no novelty claim is justified yet.
 
 ## Next action
 
-Run a third, narrower integration search after the discovery of the 2026 contextual-validity preprint. Compare its diagnostic dimensions and method against causal transportability, realist CMO analysis, policy-transfer mechanisms, and economic-policy transmission research. The goal is to identify the smallest defensible unresolved problem, if any.
+Inspect the closest procedural frameworks directly: realist CMO analysis, mechanism-based policy transfer, causal transportability/selection diagrams, institutional transplantation, and comparative policy-effectiveness. The goal is to determine whether they already provide the proposed mechanism-level transfer audit, or exactly what empirical operation remains missing.
 
 Conduct a structured literature review covering at least:
 
@@ -57,4 +57,4 @@ For each relevant literature cluster, record:
 
 ## Completion condition
 
-The initial literature-mapping substep and first targeted novelty review are complete. Phase 0 is not complete until the integration search is completed and preliminary definitions are checked against the closest frameworks.
+The initial literature mapping, first targeted novelty review, and third integration review are complete at first-pass level. Phase 0 is not complete until the closest procedural frameworks have been directly compared and the preliminary definitions are checked against them.
